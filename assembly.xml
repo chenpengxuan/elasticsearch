@@ -18,7 +18,7 @@
         <fileSet>
             <directory>${project.basedir}/bin</directory>
             <includes>
-                <include>*.*</include>
+                <include>*</include>
             </includes>
             <outputDirectory>bin</outputDirectory>
             <fileMode>0777</fileMode>
