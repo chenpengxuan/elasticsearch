@@ -27,7 +27,7 @@
         <fileSet>
             <directory>${project.basedir}/config</directory>
             <includes>
-                <include>*.*</include>
+                <include>*.txt</include>
             </includes>
             <outputDirectory>config</outputDirectory>
         </fileSet>
